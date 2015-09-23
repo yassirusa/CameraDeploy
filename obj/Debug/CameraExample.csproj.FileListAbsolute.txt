@@ -1,0 +1,12 @@
+D:\AngularJS Training\Cordova\CameraExample\CameraExample\bin\CameraExample.dll.config
+D:\AngularJS Training\Cordova\CameraExample\CameraExample\bin\CameraExample.dll
+D:\AngularJS Training\Cordova\CameraExample\CameraExample\bin\CameraExample.pdb
+D:\AngularJS Training\Cordova\CameraExample\CameraExample\obj\Debug\CameraExample.csprojResolveAssemblyReference.cache
+D:\AngularJS Training\Cordova\CameraExample\CameraExample\obj\Debug\CameraExample.dll
+D:\AngularJS Training\Cordova\CameraExample\CameraExample\obj\Debug\CameraExample.pdb
+C:\Users\youlmokhtar\Documents\GitHub\Camera\CameraExample\bin\CameraExample.dll.config
+C:\Users\youlmokhtar\Documents\GitHub\Camera\CameraExample\bin\CameraExample.dll
+C:\Users\youlmokhtar\Documents\GitHub\Camera\CameraExample\bin\CameraExample.pdb
+C:\Users\youlmokhtar\Documents\GitHub\Camera\CameraExample\obj\Debug\CameraExample.csprojResolveAssemblyReference.cache
+C:\Users\youlmokhtar\Documents\GitHub\Camera\CameraExample\obj\Debug\CameraExample.dll
+C:\Users\youlmokhtar\Documents\GitHub\Camera\CameraExample\obj\Debug\CameraExample.pdb

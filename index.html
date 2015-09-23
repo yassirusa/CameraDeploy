@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title></title>
+
+    <link href="lib/ionic/css/ionic.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+
+    <script src="Scripts/ng-cordova.min.js"></script>
+    <script src="Scripts/cordova.js"></script>
+    <script src="app/app.js"></script>
+</head>
+<body ng-app="app" ng-controller="pictureCtrl">
+    <ion-view view-title="Say Cheese">
+        <ion-content>
+            <h3 class="text-center">Take a Picture</h3>
+            <br />
+            <br />
+            <button class="button button-block button-positive" ng-click="takePicture()">
+                Take a Picture
+            </button>
+            <img class="padding" ng-src="{{imgSrc}}">
+        </ion-content>
+    </ion-view>
+</body>
+</html>
