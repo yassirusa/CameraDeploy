@@ -25,7 +25,7 @@
                 popoverOptions: CameraPopoverOptions,
                 saveToPhotoAlbum: false
             };
-
+            alert("ready");
             $scope.takePicture = function () {
                 $cordovaCamera.getPicture(options).then(function (imageData) {
                     $scope.imgSrc = "data:image/jpeg;base64," + imageData;
